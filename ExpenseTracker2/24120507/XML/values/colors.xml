@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Main palette for the screen -->
+    <color name="green_primary">#2E7D32</color>  <!-- top bar + primary button -->
+    <color name="red_amount">#D32F2F</color>     <!-- expense amounts -->
+    <color name="gray_text">#757575</color>      <!-- secondary text (date, category) -->
+    <color name="screen_bg">#F5F5F5</color>      <!-- page background + list dividers -->
+    <color name="field_border">#BDBDBD</color>   <!-- outline of input fields -->
+
+    <!-- One accent color per category, used as the icon circle background -->
+    <color name="cat_food">#FF9800</color>
+    <color name="cat_transport">#2196F3</color>
+    <color name="cat_entertainment">#9C27B0</color>
+
+    <!-- App colors from the design -->
+    <color name="red_expense">#D32F2F</color>
+    <color name="field_stroke">#CFCFCF</color>
+    <color name="text_hint">#757575</color>
+</resources>

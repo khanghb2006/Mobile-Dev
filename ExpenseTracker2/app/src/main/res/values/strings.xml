@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <!-- Options shown in the Category spinner -->
+    <string-array name="categories">
+        <item>Select category</item>
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+</resources>
